@@ -1,0 +1,6 @@
+Metadata-Version: 2.1
+Name: pcba-project
+Version: 0.1.0
+Summary: Simulation of Polycarboxybetaine polymer using mathematical methods
+Author: Your Name
+Requires-Python: >=3.7
